@@ -33,9 +33,9 @@ source .venv/bin/activate
 
 ### 1 - Code Review (10 minutes)
 
-Look at the code in `1_code_review/fetch_user_data.py`
+Look at the code in `1_code_review/fetch_todo_data.py`
 
-Review this code that fetches user data from an API. Identify at least 4 issues and explain how you would fix them.
+Review this code that fetches TODO data from an API. Identify at least 4 issues and explain how you would fix them.
 
 You may edit the file and add your answers as comments.
 
